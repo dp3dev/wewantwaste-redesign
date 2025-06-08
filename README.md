@@ -1,5 +1,3 @@
-
-
 # WeWantWaste - Skip Selection Redesign
 
 This is a redesign of the "Select Your Skip" page for the waste removal company WeWantWaste.
