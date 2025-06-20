@@ -17,11 +17,6 @@ This is a redesign of the "Select Your Skip" page for the waste removal company 
 - CSS Modules
 - Flexbox & CSS Grid
 - GitHub Pages (for deployment)
-
-## 🖼 Preview
-
-[Insert screenshot here if needed]
-
 ## 🚀 Getting Started
 
 1. Clone the repo:
